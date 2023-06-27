@@ -9,6 +9,8 @@ config/
 
 # Environment files
 .env
+
+# Cookie files
 cookie.json
 
 # Logs
